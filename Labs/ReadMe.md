@@ -8,3 +8,5 @@ Please refer to each worksheet for instructions and exercises for the correspond
 
 [Week 01 Lab](Week01Lab.md)
 
+[Week 02 Lab](Week02Lab.md)
+
