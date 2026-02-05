@@ -156,7 +156,7 @@ public class ConcreteSingleDiceShaker extends AbstractDiceShaker {
 
   @Override
   public int next() {
-    return this.shakeSingleDie();
+    return shakeSingleDie();
   }
 }
 
