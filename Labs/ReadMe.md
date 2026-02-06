@@ -10,3 +10,6 @@ Please refer to each worksheet for instructions and exercises for the correspond
 
 [Week 02 Lab](Week02Lab.md)
 
+[Week 03 Lab](Week03Lab.md)
+
+
